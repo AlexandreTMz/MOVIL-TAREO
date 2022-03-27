@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ico_home"
+            android:title="@string/menu_home"
+            app:iconTint="#93C700"
+            />
+        <item
+            android:id="@+id/nav_personas"
+            android:icon="@drawable/ico_personas"
+            android:title="Personas"
+            app:iconTint="#0E99DA"
+            />
+
+    </group>
+</menu>

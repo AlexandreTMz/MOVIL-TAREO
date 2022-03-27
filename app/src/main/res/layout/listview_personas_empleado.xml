@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/border_left"
+        android:paddingHorizontal="8dp"
+        android:paddingVertical="2dp">
+
+        <TextView
+            android:id="@+id/tvLsvNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="JIMMY VERGARA BLAS"
+            android:textSize="16dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:id="@+id/tvLsvDocumento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvLsvNombre"
+            android:text="48870137"
+            android:textSize="13dp"></TextView>
+
+        <TextView
+            android:id="@+id/tvLsvSede"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvLsvDocumento"
+            android:text="Lima Hospital Hunanie"
+            android:textSize="13dp"></TextView>
+
+        <Button
+            android:id="@+id/btnLsvSeleccionar"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="4dp"
+            android:background="@drawable/button_success2"
+            android:focusable="false"
+            android:text="SELECT"
+            android:textColor="@color/colorText"
+            android:textSize="12dp"></Button>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">APP_TAREOS</string>
+    <string name="title_activity_acthome">ActHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="strAdd">Agregar</string>
+    <string name="str_desarrollador">Jimmy Vergara Blas</string>
+    <string name="str_cargo">Supervisor</string>
+    <string name="usuario">Usuario</string>
+    <string name="passs">Contraseña</string>
+    <string name="str_ingresar">Ingresar</string>
+    <string name="str_gridd">Cuadriculado</string>
+    <string name="str_list">Lisa</string>
+    <string name="str_mensaje_user">Favor de ingresar su usuario</string>
+    <string name="str_mensaje_passw">Favor de ingresar su contraseña</string>
+    <string name="str_inUser">Nombre de usuario</string>
+    <string name="str_passw">Contraseña</string>
+    <string name="etiqueta">Etiquetas</string>
+    <string name="reports">Reportes</string>
+    <string name="str_contiguraciones">Configuraciones</string>
+    <string name="str_acerca">Acerca de</string>
+    <string name="str_vincular">Vincular paquetes</string>
+    <string name="str_print">Imprimir</string>
+    <string name="str_prenda">Prendas</string>
+    <string name="str_not_internet">Problemas con la conexión a internet</string>
+    <string name="title_activity_act_home">ACTHome</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/colorSuccess</item>
+    </style>
+
+</resources>

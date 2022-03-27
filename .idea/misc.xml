@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alexa/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/dg_registrar_suplente.xml" value="0.24572127139364303" />
+        <entry key="..\:/Users/Alexa/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_agregar_persona.xml" value="0.14308363059849386" />
+        <entry key="..\:/Users/Alexa/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_lista_personal.xml" value="0.24572127139364303" />
+        <entry key="..\:/Users/Alexa/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_registrar_tareo.xml" value="0.24572127139364303" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/drawable/btn_left.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/drawable/btn_rigth.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/drawable/button_success2.xml" value="0.1703125" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/drawable/ic_magnifying_glass.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/act_login.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/act_scanner_tareo.xml" value="0.25" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/act_splash.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/dg_cambiar_sede.xml" value="0.25400246305418717" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/dg_registrar_suplente.xml" value="0.25400246305418717" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/dg_registrar_tareo_ingreso.xml" value="0.25400246305418717" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_agregar_persona.xml" value="0.33" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_cerrar_tareo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_filtro_reporte_tareo.xml" value="0.22780054644808742" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_generar_permiso.xml" value="0.33" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_registrar_tareo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/fgt_reporte_tareo.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/layout/listview_personas_empleado.xml" value="0.25" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APPAN-TARE-RAUL/app/src/main/res/menu/acthome.xml" value="0.275" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/border_box.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ic_menu_gallery.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_add.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_ajustar.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_app_itp.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_barcode.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_connection.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_exit.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_gridd.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_list.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_persons.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_prenda.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_print.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_question.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_reports.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/ico_setting.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v21/shadow_box.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/border_left.xml" value="0.3828125" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/button_success2.xml" value="0.3828125" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/dowload.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/dowload_progress.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ic_clock.xml" value="0.57421875" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ic_descansos.xml" value="0.57421875" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ic_launcher_background.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.166015625" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ic_permitido.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ico_calendario.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ico_flash.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/ico_permitido.xml" value="0.166015625" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/shp_button_success.xml" value="0.57421875" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/shp_fondo_opcion.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/shp_perfil.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/drawable/side_nav_bar.xml" value="0.287109375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/act_actscanner_tareo.xml" value="0.25738916256157635" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/act_login.xml" value="0.5" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/act_scanner_permiso.xml" value="0.143359375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/act_scanner_tareo.xml" value="0.25738916256157635" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/activity_act_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/activity_escanear.xml" value="0.151171875" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/adtr_opciones_grid.xml" value="0.5423387096774194" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/app_bar_act_home.xml" value="0.1915024630541872" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/dg_cambiar_contrasenia.xml" value="0.5" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/dg_registrar_suplente.xml" value="0.26200738916256155" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/dg_registrar_tareo_cierre.xml" value="0.67" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/dg_registrar_tareo_ingreso.xml" value="0.67" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/dlg_update.xml" value="0.30234375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/drw_menu_izquierda.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_agregar_persona.xml" value="0.29370045890696705" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_cerrar_tareo.xml" value="0.33" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_filtro_reporte_tareo.xml" value="0.275" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_filtro_reporte_tareo_op.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_filtro_reporte_tareo_su.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_generar_permiso.xml" value="0.27185960591133007" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_lista_personal.xml" value="0.15390625" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_principal.xml" value="0.27001231527093594" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_registrar_descanso.xml" value="0.67" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_registrar_faltas.xml" value="0.5423387096774194" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_registrar_tareo.xml" value="0.4592074592074592" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_reporte_tareo.xml" value="0.27185960591133007" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fgt_reporte_tareo_operario.xml" value="0.28671875" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/fragment_slideshow.xml" value="0.24661330049261085" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/listview_personas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/listview_personas_descanso.xml" value="0.67" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/listview_personas_empleado.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/listview_personas_suplente.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/listview_personas_tareo.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/layout/spinner_item_opt.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/menu/acthome.xml" value="0.275" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/menu/activity_acthome_drawer.xml" value="0.75" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.259375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.259375" />
+        <entry key="..\:/Users/AlexandreTMz/Desktop/PROYECTOS/ANDROID/APP_TAREOS/app/src/main/res/xml/provider_paths.xml" value="0.30234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mnPrincipal"
+    >
+
+    <item
+        android:id="@+id/menu_chg_sede"
+        android:orderInCategory="100"
+        android:title="Cambiar sede"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_chg_contrasenia"
+        android:orderInCategory="100"
+        android:title="Cambiar contraseña"
+        app:showAsAction="never" />
+
+    <item android:title="@string/str_gridd"
+        android:id="@+id/menu_gridd"
+        android:icon="@drawable/ico_gridd"
+        android:orderInCategory="115"
+        app:showAsAction="always|collapseActionView"/>
+
+    <item android:title="@string/str_list"
+        android:id="@+id/menu_list"
+        android:icon="@drawable/ico_list"
+        android:orderInCategory="115"
+        app:showAsAction="always|collapseActionView"/>
+
+    <item android:title="@string/str_list"
+        android:id="@+id/menu_salir"
+        android:icon="@drawable/ico_exit"
+        android:orderInCategory="115"
+        app:showAsAction="always|collapseActionView"/>
+</menu>
